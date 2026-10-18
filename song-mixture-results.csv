@@ -1,0 +1,4 @@
+level,fixture_source,input_melody_notes,repetitions,median_output_events,median_retained,median_missed,median_extra
+1,melody only,8,10,7,7,1,0
+2,melody plus chord triads,8,10,3,0,8,3
+3,melody plus chord triads plus kick and high percussion,8,10,3,0,8,3

@@ -1,0 +1,6 @@
+codec,input_melody_notes,repetitions,median_output_events,median_retained,median_missed,median_extra
+mp3-128k,8,10,8,8,0,0
+mp3-192k,8,10,8,8,0,0
+mp3-320k,8,10,8,8,0,0
+aac-128k,8,10,8,8,0,0
+opus-128k,8,10,8,8,0,0
